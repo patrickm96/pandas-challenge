@@ -1,6 +1,9 @@
 # pandas-challenge
 Module 4
 
+Analysis location: https://github.com/patrickm96/pandas-challenge/tree/main/PyCitySchools
+Please refer to PyCitySchools.ipynb
+
 The following sources were referenced for completing the Module 4 Challenge:
 
 - Count of unique elements in a series - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
